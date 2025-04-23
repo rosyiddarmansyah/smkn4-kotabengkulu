@@ -1,1 +1,0 @@
-# smkn4-kotabengkulu
