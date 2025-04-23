@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SMK Negeri 4 Kota Bengkulu</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+  <div class="logo">SMKN 4 Bengkulu</div>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#news">News</a></li>
+      </ul>
+    </nav>
+  </header>
+ <img src="images.png" width="180" height="200">
+
+  <section id="home" class="section">
+    <h1>Selamat Datang di SMK Negeri 4 Kota Bengkulu</h1>
+    <p>Mencetak generasi unggul, berkarakter dan berdaya saing tinggi.</p>
+  </section>
+
+  <section id="about" class="section">
+    <h2>Tentang Kami</h2>
+    <p>SMK Negeri 4 Bengkulu adalah sekolah kejuruan yang berfokus pada pendidikan berbasis keterampilan dan teknologi. Kami memiliki berbagai jurusan unggulan dan fasilitas lengkap.</p>
+  </section>
+
+  <section id="gallery" class="section">
+    <h2>Galeri</h2>
+    <div class="gallery-container">
+      <img src="smk-4.jpg">
+      <img src="https://via.placeholder.com/200" alt="F7oto Kegiatan 1" />
+      <img src="images.jpg">
+      <img src="https://via.placeholder.com/200" alt="Foto Kegiatan 2" />
+      <img src="https://via.placeholder.com/200" alt="Foto Kegiatan 3" />
+    </div>
+  
+</iframe>
+
+</iframe>
+
+  
+
+  <section id="news" class="section">
+    <h2>Berita Terbaru</h2>
+    <article>
+      <h3>Juara LKS Tingkat Provinsi</h3>
+      <p>Siswa SMKN 4 berhasil meraih juara 1 dalam Lomba Kompetensi Siswa bidang IT.</p>
+    </article>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 SMK Negeri 4 Kota Bengkulu | All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
